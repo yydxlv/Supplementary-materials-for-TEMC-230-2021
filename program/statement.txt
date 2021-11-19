@@ -1,0 +1,6 @@
+
+1.Combined_Pattern_N/P.mat and Sampling_R_calculation.mat is the subfunctions that need to be called to evaluate the direction diagram.
+
+2.main_single/composite.mat are the loop array/scan Angle of the total loop program.
+
+
